@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: WindowsFormsApp1, Configuration: Debug Any CPU ------
+1>C:\Users\htgen\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.Designer.cs(98,46,98,54): warning CS0169: The field 'Form1.textBox1' is never used
+1>C:\Users\htgen\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.Designer.cs(97,53,97,57): warning CS0169: The field 'Form1.ToDo' is never used
+1>C:\Users\htgen\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.Designer.cs(96,45,96,52): warning CS0169: The field 'Form1.button1' is never used
+1>  WindowsFormsApp1 -> C:\Users\htgen\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
